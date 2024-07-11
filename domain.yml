@@ -1,0 +1,35 @@
+version: "2.0"
+
+intents:
+  - routing_number
+  - greeting
+  - check_balance
+  - home_insurance
+  - insurance_quote
+  - account_opening
+  - loan_interest_rate
+  - credit_card_application
+  - mortgage_info
+  - atm_location
+  - transfer_funds
+  - update_personal_info
+  - overdraft_fee
+  - fraud_report
+  - lost_card
+  - bill_payment
+  - investment_options
+  - savings_account_info
+  - business_loan
+  - retirement_plans
+
+responses:
+  utter_greet:
+    - text: "Hello! How can I assist you today?"
+  utter_goodbye:
+    - text: "Goodbye! Have a great day!"
+  utter_thanks:
+    - text: "You're welcome!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

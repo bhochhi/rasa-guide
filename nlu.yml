@@ -1,0 +1,101 @@
+version: "2.0"
+nlu:
+- intent: routing_number
+  examples: |
+    - What is the routing number for my bank?
+    - Can you provide the routing number?
+
+- intent: greeting
+  examples: |
+    - Hello
+    - Hi there
+
+- intent: check_balance
+  examples: |
+    - What is my account balance?
+    - Can you tell me my current balance?
+
+- intent: home_insurance
+  examples: |
+    - I need information about home insurance
+    - Can you provide details on home insurance?
+
+- intent: insurance_quote
+  examples: |
+    - I need an insurance quote
+    - Can you give me a quote for insurance?
+
+- intent: account_opening
+  examples: |
+    - How do I open a new account?
+    - What are the steps to open a bank account?
+
+- intent: loan_interest_rate
+  examples: |
+    - What is the interest rate for loans?
+    - Can you tell me the current loan interest rates?
+
+- intent: credit_card_application
+  examples: |
+    - How can I apply for a credit card?
+    - I want to apply for a new credit card
+
+- intent: mortgage_info
+  examples: |
+    - I need information about mortgages
+    - Can you tell me about your mortgage options?
+
+- intent: atm_location
+  examples: |
+    - Where is the nearest ATM?
+    - Can you find an ATM near me?
+
+- intent: transfer_funds
+  examples: |
+    - How do I transfer funds between accounts?
+    - I want to transfer money to another account
+
+- intent: update_personal_info
+  examples: |
+    - How can I update my personal information?
+    - I need to change my address on my account
+
+- intent: overdraft_fee
+  examples: |
+    - What is the overdraft fee?
+    - Can you tell me about overdraft charges?
+
+- intent: fraud_report
+  examples: |
+    - I need to report fraud on my account
+    - How do I report a fraudulent transaction?
+
+- intent: lost_card
+  examples: |
+    - I lost my card, what should I do?
+    - How do I report a lost or stolen card?
+
+- intent: bill_payment
+  examples: |
+    - How can I pay my bills online?
+    - I need help with online bill payment
+
+- intent: investment_options
+  examples: |
+    - What investment options do you offer?
+    - Can you provide details on your investment plans?
+
+- intent: savings_account_info
+  examples: |
+    - I need information about savings accounts
+    - Can you tell me about your savings account options?
+
+- intent: business_loan
+  examples: |
+    - How do I apply for a business loan?
+    - What are the requirements for a business loan?
+
+- intent: retirement_plans
+  examples: |
+    - Can you tell me about your retirement plans?
+    - What retirement savings options are available?
