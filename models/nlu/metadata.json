@@ -226,6 +226,6 @@
             "class": "rasa.nlu.selectors.response_selector.ResponseSelector"
         }
     ],
-    "trained_at": "20240710-234444",
+    "trained_at": "20240711-011755",
     "rasa_version": "2.2.3"
 }

@@ -99,3 +99,11 @@ nlu:
   examples: |
     - Can you tell me about your retirement plans?
     - What retirement savings options are available?
+
+- intent: fallback
+  examples: |
+    - rupee
+    - Tell me a joke
+    - What's the weather like?
+    - Random text
+    - How do I bake a cake?

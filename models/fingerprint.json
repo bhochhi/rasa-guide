@@ -5,10 +5,10 @@
   "config-without-epochs": "3367041579a048fd98a858a7af10ae75",
   "domain": "1dab016f154a96fd22388925fc63c0c5",
   "nlg": "99914b932bd37a50b983c5e7c90ae93b",
-  "project": null,
-  "messages": "35db89c9bee8747031c0ffb4123204fb",
-  "nlu_labels": "e134122eb37ef117e33386e45f70f70a",
+  "project": "cdbec798a35cd4224a9ad6c05370353922ad1a37d586e11a97ea555bbed317b0",
+  "messages": "cb55a444d9c27947a8f2d729caf2be7e",
+  "nlu_labels": "940d45c7234c14a7ee9d094f2abb4b6f",
   "stories": "51f365eaa655de1ee59e7cc9aca17bb7",
-  "trained_at": 1720673084.831467,
+  "trained_at": 1720678676.2091079,
   "version": "2.2.3"
 }
